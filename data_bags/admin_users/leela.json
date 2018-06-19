@@ -1,0 +1,7 @@
+{
+   "id": "leela",
+   "uid": 1010,
+   "gid": "ops",
+   "shell": "/bin/zsh",
+   "comment": "Turanga Leela"
+}

@@ -1,0 +1,7 @@
+{
+   "id": "bender",
+   "uid": 1010,
+   "gid": "ops",
+   "shell": "/bin/bash",
+   "comment": "Bender B Rodriguez"
+}

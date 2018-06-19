@@ -1,0 +1,14 @@
+{
+  "name": "prod",
+  "description": "Main env for prod servers",
+  "cookbook_versions": {
+    "4th_coffee_audit": "~> 0.1.4",
+    "create_test_files": "= 0.1.0"
+  },
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  }
+}
