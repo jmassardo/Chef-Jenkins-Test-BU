@@ -2,8 +2,8 @@
   "name": "prod",
   "description": "Main env for prod servers",
   "cookbook_versions": {
-    "all_systems": "= 0.1.6",
-    "cis_baseline": "= 0.1.7"
+    "all_systems": "= 0.1.7",
+    "cis_baseline": "= 0.1.9"
   },
   "json_class": "Chef::Environment",
   "chef_type": "environment",
